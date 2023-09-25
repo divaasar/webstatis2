@@ -1,0 +1,17 @@
+.judul{
+    background-color: rgb(158, 158, 51);
+    text-align: center;
+}
+
+img{
+    float: left;
+    width: 23rem;
+    height: 17rem;
+    margin: 2%;
+    padding: 3%;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse:collapse;
+}
